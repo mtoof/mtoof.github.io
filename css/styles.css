@@ -575,7 +575,7 @@ progress {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  height: 50vh;
+  height: auto;
 }
 
 .skills-columns{
@@ -11260,7 +11260,7 @@ html {
 }
 
 .page-section {
-  padding: 6rem 0;
+  padding: 10rem 0;
 }
 .page-section .page-section-heading {
   font-size: 2.25rem;
