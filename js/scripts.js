@@ -31,8 +31,8 @@
 
 var typed = new Typed('.auto-type', {
     strings: ['software developer', "back-end developer"],
-    typeSpeed: 150,
-    backSpeed:150,
+    typeSpeed: 50,
+    backSpeed:80,
     loop:true,
   });
 
