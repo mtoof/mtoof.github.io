@@ -30,9 +30,9 @@
 
 
 var typed = new Typed('.auto-type', {
-    strings: ['software developer', "back-end developer"],
+    strings: ['software developer', "back-end developer", "IT Network Specialist "],
     typeSpeed: 50,
-    backSpeed:80,
+    backSpeed:50,
     loop:true,
   });
 

@@ -11481,7 +11481,7 @@ html {
 .auto-type-box {
   margin: 0; /* Removes margin */
   display: inline-block; /* Keeps the auto-type span in one line */
-  width: 215px; /* Adjust width based on your desired space for the typing area */
+  width: 240px; /* Adjust width based on your desired space for the typing area */
   overflow: hidden; /* Ensures that typed text stays within the box */
   white-space: nowrap; /* Prevents text from wrapping to the next line */
 }
